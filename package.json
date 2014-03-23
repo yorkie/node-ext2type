@@ -1,0 +1,28 @@
+{
+  "name": "ext2type",
+  "version": "0.0.1",
+  "description": "extension to content type of http",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape tests/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yorkie/node-ext2type.git"
+  },
+  "devDependencies": {
+    "tape": "*"
+  },
+  "keywords": [
+    "extension",
+    "http",
+    "content",
+    "type"
+  ],
+  "author": "Yorkie Neil <yorkiefixer@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yorkie/node-ext2type/issues"
+  },
+  "homepage": "https://github.com/yorkie/node-ext2type"
+}
