@@ -1,6 +1,6 @@
 {
   "name": "ext2type",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "extension to content type of http",
   "main": "index.js",
   "scripts": {
