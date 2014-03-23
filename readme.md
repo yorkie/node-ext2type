@@ -16,7 +16,7 @@ $ npm install ext2type
 
 ### API
 
-[code]ext2type(name)[code] just calling it
+`ext2type(name)`: just calling it
 
 ### LICENSE
 
