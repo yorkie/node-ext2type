@@ -2,7 +2,10 @@
 ext2type
 ================
 
+Inactive: you should use node-mime to replace this.
+
 convert extension of the path to the http `Content-Type` format, like `application/xml`, `application/json`.
+
 
 [![Build Status](https://travis-ci.org/yorkie/node-ext2type.svg?branch=master)](https://travis-ci.org/yorkie/node-ext2type)
 
